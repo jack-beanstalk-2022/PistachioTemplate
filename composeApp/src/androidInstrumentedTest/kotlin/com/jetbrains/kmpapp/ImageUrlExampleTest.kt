@@ -5,7 +5,7 @@ import androidx.compose.ui.test.hasContentDescription
 import androidx.compose.ui.test.onNodeWithContentDescription
 import androidx.compose.ui.test.onNodeWithText
 import androidx.test.ext.junit.runners.AndroidJUnit4
-import com.jetbrains.kmpapp.screens.ImageUrlExample
+import com.jetbrains.kmpapp.examples.ImageUrlExample
 import org.junit.Test
 import org.junit.runner.RunWith
 

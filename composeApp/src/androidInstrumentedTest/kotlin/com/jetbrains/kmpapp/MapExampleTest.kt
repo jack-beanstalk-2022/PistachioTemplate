@@ -4,7 +4,7 @@ import androidx.compose.ui.test.assertIsDisplayed
 import androidx.compose.ui.test.onNodeWithTag
 import androidx.compose.ui.test.onNodeWithText
 import androidx.test.ext.junit.runners.AndroidJUnit4
-import com.jetbrains.kmpapp.screens.MapExample
+import com.jetbrains.kmpapp.examples.MapExample
 import org.junit.Test
 import org.junit.runner.RunWith
 

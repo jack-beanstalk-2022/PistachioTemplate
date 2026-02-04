@@ -1,4 +1,4 @@
-package com.jetbrains.kmpapp.screens
+package com.jetbrains.kmpapp.examples
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
